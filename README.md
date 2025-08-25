@@ -19,26 +19,11 @@
 
 ---
 
-## 📂 Проекты
-- 🐍 **Автоматизированная проверка сниппетов Google** (Python + Selenium, incognito mode)  
-- 🌐 **API-тесты** (Postman, Newman)  
-- 🗄 **SQL-запросы**: выборки, join, группировки  
-- 📑 **Тест-кейсы и чек-листы** (Markdown + Excel)  
-
-*(все проекты будут опубликованы в репозиториях — ссылки появятся здесь)*  
-
----
-
 ## 🎓 Образование и курсы
-- Курс «Основы тестирования ПО»  
-- Курсы «Поколение Python» для начинающих, продвинутых и профессионалов
+- Курс «Основы тестирования ПО» от Artsiom Rusau
+- Курсы «Поколение Python для начинающих, продвинутых и профессионалов» от BEEGEEK
 - Самостоятельное изучение SQL, Git, Bash, Selenium  
 
----
-
-## 📊 GitHub Статистика
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Merkelov&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Merkelov&layout=compact&theme=radical)
 
 ---
 
